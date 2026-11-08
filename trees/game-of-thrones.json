@@ -1,0 +1,784 @@
+{
+  "version": 4,
+  "title": "Il Trono di Spade",
+  "category": "Narrativa",
+  "scope": "Serie TV · rami principali · spoiler fino alla stagione 8",
+  "tone": "green",
+  "sources": [
+    "https://www.hbo.com/game-of-thrones",
+    "https://gameofthrones.fandom.com/wiki/House_Stark",
+    "https://gameofthrones.fandom.com/wiki/House_Targaryen",
+    "https://gameofthrones.fandom.com/wiki/House_Lannister",
+    "https://gameofthrones.fandom.com/wiki/House_Baratheon",
+    "https://gameofthrones.fandom.com/wiki/House_Tully",
+    "https://gameofthrones.fandom.com/wiki/House_Arryn",
+    "https://gameofthrones.fandom.com/wiki/House_Tyrell",
+    "https://gameofthrones.fandom.com/wiki/House_Martell"
+  ],
+  "rootId": "jon-snow",
+  "persons": [
+    {
+      "id": "rickard",
+      "name": "Rickard Stark",
+      "gender": "m",
+      "birthUnionId": null,
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Rickard_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "lyarra",
+      "name": "Lyarra Stark",
+      "gender": "f",
+      "birthUnionId": null,
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Lyarra_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "brandon",
+      "name": "Brandon Stark",
+      "gender": "m",
+      "birthUnionId": "stark-elders",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Brandon_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "ned",
+      "name": "Eddard Stark",
+      "gender": "m",
+      "birthUnionId": "stark-elders",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Eddard_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "lyanna",
+      "name": "Lyanna Stark",
+      "gender": "f",
+      "birthUnionId": "stark-elders",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Lyanna_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "benjen",
+      "name": "Benjen Stark",
+      "gender": "m",
+      "birthUnionId": "stark-elders",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Benjen_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "catelyn",
+      "name": "Catelyn Stark",
+      "gender": "f",
+      "birthUnionId": "tully",
+      "origin": "Nata nella casa Tully",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Catelyn_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "robb",
+      "name": "Robb Stark",
+      "gender": "m",
+      "birthUnionId": "stark",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Robb_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "sansa",
+      "name": "Sansa Stark",
+      "gender": "f",
+      "birthUnionId": "stark",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Sansa_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "arya",
+      "name": "Arya Stark",
+      "gender": "f",
+      "birthUnionId": "stark",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Arya_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "bran",
+      "name": "Bran Stark",
+      "gender": "m",
+      "birthUnionId": "stark",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Bran_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "rickon",
+      "name": "Rickon Stark",
+      "gender": "m",
+      "birthUnionId": "stark",
+      "origin": "Casa Stark",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Rickon_Stark",
+      "uncertain": false
+    },
+    {
+      "id": "hoster",
+      "name": "Hoster Tully",
+      "gender": "m",
+      "birthUnionId": null,
+      "origin": "Casa Tully",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Hoster_Tully",
+      "uncertain": false
+    },
+    {
+      "id": "minisa",
+      "name": "Minisa Whent",
+      "gender": "f",
+      "birthUnionId": null,
+      "origin": "Casa Whent",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Minisa_Whent",
+      "uncertain": false
+    },
+    {
+      "id": "lysa",
+      "name": "Lysa Arryn",
+      "gender": "f",
+      "birthUnionId": "tully",
+      "origin": "Nata nella casa Tully",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Lysa_Arryn",
+      "uncertain": false
+    },
+    {
+      "id": "edmure",
+      "name": "Edmure Tully",
+      "gender": "m",
+      "birthUnionId": "tully",
+      "origin": "Casa Tully",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Edmure_Tully",
+      "uncertain": false
+    },
+    {
+      "id": "jon-arryn",
+      "name": "Jon Arryn",
+      "gender": "m",
+      "birthUnionId": null,
+      "origin": "Casa Arryn",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Jon_Arryn",
+      "uncertain": false
+    },
+    {
+      "id": "robin",
+      "name": "Robin Arryn",
+      "gender": "m",
+      "birthUnionId": "arryn",
+      "origin": "Casa Arryn",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Robin_Arryn",
+      "uncertain": false
+    },
+    {
+      "id": "aerys",
+      "name": "Aerys II Targaryen",
+      "gender": "m",
+      "birthUnionId": "aerys-rhaella-siblings",
+      "origin": "Casa Targaryen",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Aerys_II_Targaryen",
+      "uncertain": false
+    },
+    {
+      "id": "rhaella",
+      "name": "Rhaella Targaryen",
+      "gender": "f",
+      "birthUnionId": "aerys-rhaella-siblings",
+      "origin": "Casa Targaryen",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Rhaella_Targaryen",
+      "uncertain": false
+    },
+    {
+      "id": "rhaegar",
+      "name": "Rhaegar Targaryen",
+      "gender": "m",
+      "birthUnionId": "targaryen",
+      "origin": "Casa Targaryen",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Rhaegar_Targaryen",
+      "uncertain": false
+    },
+    {
+      "id": "viserys",
+      "name": "Viserys Targaryen",
+      "gender": "m",
+      "birthUnionId": "targaryen",
+      "origin": "Casa Targaryen",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Viserys_Targaryen",
+      "uncertain": false
+    },
+    {
+      "id": "daenerys",
+      "name": "Daenerys Targaryen",
+      "gender": "f",
+      "birthUnionId": "targaryen",
+      "origin": "Casa Targaryen",
+      "notes": "Figlia di Aerys II e Rhaella, sorella di Rhaegar e Viserys. Sposa Khal Drogo; il loro figlio è Rhaego. Nella serie è la zia paterna di Jon Snow.",
+      "source": "https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen",
+      "uncertain": false
+    },
+    {
+      "id": "jon-snow",
+      "name": "Jon Snow",
+      "gender": "m",
+      "birthUnionId": "rhaegar-lyanna",
+      "origin": "Il Nord",
+      "notes": "SPOILER: nella serie TV è Aegon Targaryen, figlio di Rhaegar e Lyanna. Eddard è suo zio e tutore, non suo padre biologico.",
+      "source": "https://gameofthrones.fandom.com/wiki/Jon_Snow",
+      "uncertain": false
+    },
+    {
+      "id": "elia",
+      "name": "Elia Martell",
+      "gender": "f",
+      "birthUnionId": null,
+      "origin": "Casa Martell",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Elia_Martell",
+      "uncertain": false
+    },
+    {
+      "id": "rhaenys",
+      "name": "Rhaenys Targaryen",
+      "gender": "f",
+      "birthUnionId": "rhaegar-elia",
+      "origin": "Casa Targaryen",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Rhaenys_Targaryen",
+      "uncertain": false
+    },
+    {
+      "id": "aegon",
+      "name": "Aegon Targaryen (figlio di Elia)",
+      "gender": "m",
+      "birthUnionId": "rhaegar-elia",
+      "origin": "Casa Targaryen",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Aegon_Targaryen_(son_of_Rhaegar)",
+      "uncertain": false
+    },
+    {
+      "id": "drogo",
+      "name": "Khal Drogo",
+      "gender": "m",
+      "birthUnionId": null,
+      "origin": "Dothraki",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Khal_Drogo",
+      "uncertain": false
+    },
+    {
+      "id": "rhaego",
+      "name": "Rhaego",
+      "gender": "m",
+      "birthUnionId": "drogo-daenerys",
+      "origin": "Dothraki",
+      "notes": "Figlio nato morto di Daenerys e Khal Drogo.",
+      "source": "https://gameofthrones.fandom.com/wiki/Rhaego",
+      "uncertain": false
+    },
+    {
+      "id": "tywin",
+      "name": "Tywin Lannister",
+      "gender": "m",
+      "birthUnionId": null,
+      "origin": "Casa Lannister",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Tywin_Lannister",
+      "uncertain": false
+    },
+    {
+      "id": "joanna",
+      "name": "Joanna Lannister",
+      "gender": "f",
+      "birthUnionId": null,
+      "origin": "Casa Lannister",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Joanna_Lannister",
+      "uncertain": false
+    },
+    {
+      "id": "jaime",
+      "name": "Jaime Lannister",
+      "gender": "m",
+      "birthUnionId": "lannister",
+      "origin": "Casa Lannister",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Jaime_Lannister",
+      "uncertain": false
+    },
+    {
+      "id": "cersei",
+      "name": "Cersei Lannister",
+      "gender": "f",
+      "birthUnionId": "lannister",
+      "origin": "Casa Lannister",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Cersei_Lannister",
+      "uncertain": false
+    },
+    {
+      "id": "tyrion",
+      "name": "Tyrion Lannister",
+      "gender": "m",
+      "birthUnionId": "lannister",
+      "origin": "Casa Lannister",
+      "notes": "Figlio di Tywin e Joanna Lannister, fratello minore di Cersei e Jaime. Il suo matrimonio con Sansa collega i Lannister agli Stark.",
+      "source": "https://gameofthrones.fandom.com/wiki/Tyrion_Lannister",
+      "uncertain": false
+    },
+    {
+      "id": "joffrey",
+      "name": "Joffrey Baratheon",
+      "gender": "m",
+      "birthUnionId": "jaime-cersei",
+      "origin": "Casa Baratheon",
+      "notes": "Porta il cognome Baratheon, ma i genitori biologici sono Jaime e Cersei Lannister.",
+      "source": "https://gameofthrones.fandom.com/wiki/Joffrey_Baratheon",
+      "uncertain": false
+    },
+    {
+      "id": "myrcella",
+      "name": "Myrcella Baratheon",
+      "gender": "f",
+      "birthUnionId": "jaime-cersei",
+      "origin": "Casa Baratheon",
+      "notes": "Porta il cognome Baratheon, ma i genitori biologici sono Jaime e Cersei Lannister.",
+      "source": "https://gameofthrones.fandom.com/wiki/Myrcella_Baratheon",
+      "uncertain": false
+    },
+    {
+      "id": "tommen",
+      "name": "Tommen Baratheon",
+      "gender": "m",
+      "birthUnionId": "jaime-cersei",
+      "origin": "Casa Baratheon",
+      "notes": "Porta il cognome Baratheon, ma i genitori biologici sono Jaime e Cersei Lannister.",
+      "source": "https://gameofthrones.fandom.com/wiki/Tommen_Baratheon",
+      "uncertain": false
+    },
+    {
+      "id": "steffon",
+      "name": "Steffon Baratheon",
+      "gender": "m",
+      "birthUnionId": null,
+      "origin": "Casa Baratheon",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Steffon_Baratheon",
+      "uncertain": false
+    },
+    {
+      "id": "cassana",
+      "name": "Cassana Estermont",
+      "gender": "f",
+      "birthUnionId": null,
+      "origin": "Casa Estermont",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Cassana_Estermont",
+      "uncertain": false
+    },
+    {
+      "id": "robert",
+      "name": "Robert Baratheon",
+      "gender": "m",
+      "birthUnionId": "baratheon",
+      "origin": "Casa Baratheon",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Robert_Baratheon",
+      "uncertain": false
+    },
+    {
+      "id": "stannis",
+      "name": "Stannis Baratheon",
+      "gender": "m",
+      "birthUnionId": "baratheon",
+      "origin": "Casa Baratheon",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Stannis_Baratheon",
+      "uncertain": false
+    },
+    {
+      "id": "renly",
+      "name": "Renly Baratheon",
+      "gender": "m",
+      "birthUnionId": "baratheon",
+      "origin": "Casa Baratheon",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Renly_Baratheon",
+      "uncertain": false
+    },
+    {
+      "id": "selyse",
+      "name": "Selyse Florent",
+      "gender": "f",
+      "birthUnionId": null,
+      "origin": "Casa Florent",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Selyse_Florent",
+      "uncertain": false
+    },
+    {
+      "id": "shireen",
+      "name": "Shireen Baratheon",
+      "gender": "f",
+      "birthUnionId": "stannis",
+      "origin": "Casa Baratheon",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Shireen_Baratheon",
+      "uncertain": false
+    },
+    {
+      "id": "gendry",
+      "name": "Gendry",
+      "gender": "m",
+      "birthUnionId": "robert-gendry",
+      "origin": "Approdo del Re",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Gendry",
+      "uncertain": false
+    },
+    {
+      "id": "olenna",
+      "name": "Olenna Tyrell",
+      "gender": "f",
+      "birthUnionId": null,
+      "origin": "Nata nella casa Redwyne",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Olenna_Tyrell",
+      "uncertain": false
+    },
+    {
+      "id": "luthor",
+      "name": "Luthor Tyrell",
+      "gender": "m",
+      "birthUnionId": null,
+      "origin": "Casa Tyrell",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Luthor_Tyrell",
+      "uncertain": false
+    },
+    {
+      "id": "mace",
+      "name": "Mace Tyrell",
+      "gender": "m",
+      "birthUnionId": "tyrell-elders",
+      "origin": "Casa Tyrell",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Mace_Tyrell",
+      "uncertain": false
+    },
+    {
+      "id": "alerie",
+      "name": "Alerie Hightower",
+      "gender": "f",
+      "birthUnionId": null,
+      "origin": "Casa Hightower",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Alerie_Hightower",
+      "uncertain": false
+    },
+    {
+      "id": "margaery",
+      "name": "Margaery Tyrell",
+      "gender": "f",
+      "birthUnionId": "tyrell",
+      "origin": "Casa Tyrell",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Margaery_Tyrell",
+      "uncertain": false
+    },
+    {
+      "id": "loras",
+      "name": "Loras Tyrell",
+      "gender": "m",
+      "birthUnionId": "tyrell",
+      "origin": "Casa Tyrell",
+      "notes": "",
+      "source": "https://gameofthrones.fandom.com/wiki/Loras_Tyrell",
+      "uncertain": false
+    }
+  ],
+  "unions": [
+    {
+      "id": "stark-elders",
+      "fatherId": "rickard",
+      "motherId": "lyarra",
+      "children": [
+        "brandon",
+        "ned",
+        "lyanna",
+        "benjen"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "tully",
+      "fatherId": "hoster",
+      "motherId": "minisa",
+      "children": [
+        "catelyn",
+        "lysa",
+        "edmure"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "stark",
+      "fatherId": "ned",
+      "motherId": "catelyn",
+      "children": [
+        "robb",
+        "sansa",
+        "arya",
+        "bran",
+        "rickon"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "arryn",
+      "fatherId": "jon-arryn",
+      "motherId": "lysa",
+      "children": [
+        "robin"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "targaryen",
+      "fatherId": "aerys",
+      "motherId": "rhaella",
+      "children": [
+        "rhaegar",
+        "viserys",
+        "daenerys"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "rhaegar-elia",
+      "fatherId": "rhaegar",
+      "motherId": "elia",
+      "children": [
+        "rhaenys",
+        "aegon"
+      ],
+      "manual": true,
+      "notes": "Primo matrimonio di Rhaegar; nella serie viene annullato prima delle nozze con Lyanna.",
+      "label": ""
+    },
+    {
+      "id": "rhaegar-lyanna",
+      "fatherId": "rhaegar",
+      "motherId": "lyanna",
+      "children": [
+        "jon-snow"
+      ],
+      "manual": true,
+      "notes": "SPOILER stagioni 6–7: genitori biologici di Jon, cresciuto da Eddard Stark come suo figlio illegittimo.",
+      "label": ""
+    },
+    {
+      "id": "drogo-daenerys",
+      "fatherId": "drogo",
+      "motherId": "daenerys",
+      "children": [
+        "rhaego"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "lannister",
+      "fatherId": "tywin",
+      "motherId": "joanna",
+      "children": [
+        "jaime",
+        "cersei",
+        "tyrion"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "jaime-cersei",
+      "fatherId": "jaime",
+      "motherId": "cersei",
+      "children": [
+        "joffrey",
+        "myrcella",
+        "tommen"
+      ],
+      "manual": true,
+      "notes": "Genitori biologici. I figli portano il cognome Baratheon e sono pubblicamente presentati come figli di Robert.",
+      "label": ""
+    },
+    {
+      "id": "baratheon",
+      "fatherId": "steffon",
+      "motherId": "cassana",
+      "children": [
+        "robert",
+        "stannis",
+        "renly"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "robert-cersei",
+      "fatherId": "robert",
+      "motherId": "cersei",
+      "children": [],
+      "manual": true,
+      "notes": "Matrimonio. Joffrey, Myrcella e Tommen sono figli biologici di Jaime, non di Robert.",
+      "label": "Matrimonio"
+    },
+    {
+      "id": "robert-gendry",
+      "fatherId": "robert",
+      "motherId": null,
+      "children": [
+        "gendry"
+      ],
+      "manual": true,
+      "notes": "La madre di Gendry non viene identificata per nome nella serie.",
+      "label": ""
+    },
+    {
+      "id": "stannis",
+      "fatherId": "stannis",
+      "motherId": "selyse",
+      "children": [
+        "shireen"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "tyrell-elders",
+      "fatherId": "luthor",
+      "motherId": "olenna",
+      "children": [
+        "mace"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "tyrell",
+      "fatherId": "mace",
+      "motherId": "alerie",
+      "children": [
+        "margaery",
+        "loras"
+      ],
+      "manual": true,
+      "notes": "",
+      "label": ""
+    },
+    {
+      "id": "renly-margaery",
+      "fatherId": "renly",
+      "motherId": "margaery",
+      "children": [],
+      "manual": true,
+      "notes": "Primo matrimonio di Margaery.",
+      "label": "Matrimonio"
+    },
+    {
+      "id": "joffrey-margaery",
+      "fatherId": "joffrey",
+      "motherId": "margaery",
+      "children": [],
+      "manual": true,
+      "notes": "Secondo matrimonio di Margaery.",
+      "label": "Matrimonio"
+    },
+    {
+      "id": "tommen-margaery",
+      "fatherId": "tommen",
+      "motherId": "margaery",
+      "children": [],
+      "manual": true,
+      "notes": "Terzo matrimonio di Margaery.",
+      "label": "Matrimonio"
+    },
+    {
+      "id": "tyrion-sansa",
+      "fatherId": "tyrion",
+      "motherId": "sansa",
+      "children": [],
+      "manual": true,
+      "notes": "Matrimonio non consumato.",
+      "label": "Matrimonio"
+    },
+    {
+      "id": "aerys-rhaella-siblings",
+      "fatherId": null,
+      "motherId": null,
+      "children": [
+        "aerys",
+        "rhaella"
+      ],
+      "manual": true,
+      "label": "Fratelli",
+      "notes": "Aerys II e Rhaella sono fratello e sorella. Gli antenati precedenti non sono inclusi in questa selezione."
+    }
+  ],
+  "relationships": [
+    {
+      "id": "ned-jon",
+      "type": "other",
+      "a": "ned",
+      "b": "jon-snow",
+      "label": "Zio e tutore",
+      "notes": "Eddard cresce Jon come suo figlio per proteggerlo."
+    }
+  ]
+}

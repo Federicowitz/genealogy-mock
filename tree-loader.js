@@ -1,6 +1,6 @@
 'use strict';
 (function(root){
- const catalog=root.GenealogyCatalog,id=new URLSearchParams(location.search).get('tree')||'aurora';
+ const catalog=root.GenealogyCatalog,id=new URLSearchParams(location.search).get('tree')||'game-of-thrones';
  const blank={id:'blank',title:'Nuovo albero',scope:'Copia locale',sources:[]};const entry=id==='blank'?blank:catalog.entries.find(e=>e.id===id);
  root.GenealogyMock={id,entry,prefix:'genealogy-mock:tree:'+id+':',resetting:false};
  root.GenealogyMock.ready=new Promise((resolve,reject)=>{
